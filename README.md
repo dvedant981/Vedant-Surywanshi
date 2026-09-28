@@ -1,2 +1,2 @@
-# Vedant-Surywanshi
+# Vedant-Suryvanshi
 C Program
